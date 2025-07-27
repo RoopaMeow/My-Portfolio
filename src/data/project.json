@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Maternal Care App",
+    "imageSrc": "maternalcare.png",
+    "description": "Java-based Android app with IoT for maternal health tracking, reminders, and alerts.",
+    "skills": ["Java", "Android", "IoT"],
+    "demo": "https://github.com/RoopaMeow/MaternalCare",
+    "source": "https://github.com/RoopaMeow/MaternalCare"
+  },
+  {
+    "title": "DrowsyGuard Detection",
+    "imageSrc": "Drowsyg.png",
+    "description": "AI system that detects drowsiness and alerts drivers with sound and GPS.",
+    "skills": ["Python", "OpenCV", "Dlib"],
+    "demo": "https://github.com/RoopaMeow/DrowsyGuard",
+    "source": "https://github.com/RoopaMeow/DrowsyGuard"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "reactportfolio.png",
+    "description": "Dynamic, responsive, and user-friendly web-based portfolio highlighting my development work.",
+    "skills": ["Html", "CSS", "Javascript"],
+    "demo": "https://github.com/RoopaMeow/Portfolio/tree/master",
+    "source":"https://github.com/RoopaMeow/Portfolio/tree/master"
+  }
+]
